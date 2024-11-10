@@ -1,5 +1,4 @@
 ## Hi there 👋
 
-[![](https://raw.githubusercontent.com/hat0uma/hat0uma/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hat0uma/hat0uma/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hat0uma/hat0uma/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hat0uma/hat0uma/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hat0uma/hat0uma/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![hat0uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=hat0uma&show_icons=true&count_private=true)](https://github.com/hat0uma)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hat0uma&layout=compact)
